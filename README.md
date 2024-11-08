@@ -54,3 +54,13 @@ python setup.py install
 export API_ID=<your api id>
 prometheus-api-gateway-v2-exporter
 ```
+
+<hr>
+
+## Grafana dashboard
+
+Import the json file into your Grafana.
+
+![](./docs/dash_1.png)
+
+![](./docs/dash_2.png)
